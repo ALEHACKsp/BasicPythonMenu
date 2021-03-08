@@ -1,4 +1,4 @@
-This is a basic program which displays a menu with four options.
+This is a basic program that displays a menu with four options.
 
 1. Reverse your message
 2. Translate your message to another language
